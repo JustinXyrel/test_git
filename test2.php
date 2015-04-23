@@ -4,7 +4,8 @@
 		$str_count = strlen($S);
 		while($str_count > 2){
           
-				$S = $func->get_value($S);	
+				$S = $funcs->get_value($S);	
+				
 				$str_count = strlen($S);
 			
 		}
