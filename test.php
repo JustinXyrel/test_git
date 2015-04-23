@@ -1,6 +1,6 @@
 <?php
 	$func = new Func;
-		$S = 'ABBCC';
+		$S = 'ABBCCA';
 		$str_count = strlen($S);
 		while($str_count > 2){
           
